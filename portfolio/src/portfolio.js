@@ -121,7 +121,7 @@ const workExperiences = {
     {
       role: "Data Science Intern",
       company: "Codectechnologies",
-      companylogo: require("./assets/src/images/codectechnologies.png"),
+      companylogo: require("./assets/images/codectechnologies.png"),
       date: "May 1, 2024 – May 31, 2024",
       desc: "Completed a data science internship working on real-world datasets to extract insights and build predictive models.",
       descBullets: [
@@ -134,7 +134,7 @@ const workExperiences = {
     {
       role: "Data Science Intern",
       company: "CodeAlpha",
-      companylogo: require("./assets/src/images/CodeAlpha.png"),
+      companylogo: require("./assets/images/CodeAlpha.png"),
       date: "June 1, 2024 – June 30, 2024",
       desc: "Internship focusing on advanced data analytics and visualization using Python and Tableau.",
       descBullets: [
